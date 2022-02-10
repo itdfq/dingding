@@ -13,9 +13,9 @@ class DingdingApplicationTests {
 
     @Autowired
     private DingDingService dingDingService;
-    private static final String SECRET = "SEC2f352ffa4fa8ab69ab95525ef841e042699a0be0198344bef2132f9dcee3a988";
+    private static final String SECRET = "SEC2f352ffa4fa8ab69ab95525ef841e042699a0be0198344bef2132f9dcee3a98811";
 
-    private static final String ACCESS_TOKEN = "5dbf49ddfa5a0b9264fa79d0b71113d44dc0890b7ba98a9aa29c230be983c23f";
+    private static final String ACCESS_TOKEN = "5dbf49ddfa5a0b9264fa79d0b71113d44dc0890b7ba98a9aa29c230be983c23f11";
     @Test
     void contextLoads() throws Exception {
         TextMsg textMsg = new TextMsg();
