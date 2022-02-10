@@ -1,4 +1,5 @@
-# 工程简介
+# 钉钉群聊机器人
 
-# 延伸阅读
+### DingDingService#send方法进行发送
+更多请看https://open.dingtalk.com/document/robots/custom-robot-access
 
